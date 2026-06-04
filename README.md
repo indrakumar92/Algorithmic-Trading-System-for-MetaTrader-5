@@ -60,12 +60,19 @@ Features
 **Parameter	                Description
 
 MA_Fast_Period	          Fast EMA Period (Default 21)
+
 MA_Trend_Period	          Trend EMA Period (Default 50)
+
 LotSize	                  Trade Lot Size
+
 StopLoss_Pips            	Stop Loss Distance
+
 TakeProfit_Pips          	Take Profit Distance
+
 TrailingStop_Pips	        Trailing Stop Distance
+
 MaxOpenTrades	            Maximum Simultaneous Trades
+
 MagicNumber	              Unique Trade Identifier
 
 
